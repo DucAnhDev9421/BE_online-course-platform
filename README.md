@@ -1,4 +1,4 @@
-# Web API Project
+# online-course-platform (nền tảng khóa học trực tuyến)
 ### Mô tả
 Đây là một dự án RESTful Web API được xây dựng bằng .NET Core. Dự án được viết bằng C# và cung cấp một giải pháp API mạnh mẽ cho các ứng dụng của bạn.
 
